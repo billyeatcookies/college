@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "acfbedb096d9d8b0",
+        "id": "b32bf5d14e28b5d8",
         "type": "tabs",
         "children": [
           {
-            "id": "e267325c1f8cf95b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4fb1fc608b0c9f23",
+            "id": "dad41a5ce0c026ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1.md",
+                "file": "M1 Maths.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0e265fbc6425cfeb",
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1.md",
+                "file": "M1 Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1.md",
+                "file": "M1 Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1.md"
+                "file": "M1 Maths.md"
               }
             }
           }
@@ -155,16 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fb1fc608b0c9f23",
+  "active": "dad41a5ce0c026ec",
   "lastOpenFiles": [
-    "M1.md",
+    "M1 Maths.md",
+    "calculus_11_Sequences_and_Series.pdf",
+    "2023-09-14.md",
     "M1 MECH.md",
     "Pasted image 20230914232139.png",
     "Pasted image 20230914231426.png",
     "M1 BEC.md",
     "Pasted image 20230914222506.png",
     "Untitled.canvas",
-    "2023-09-14.md",
     "Pasted image 20230914220608.png",
     "Notice.md",
     "Pasted image 20230914212354.png",
