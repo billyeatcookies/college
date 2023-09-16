@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b32bf5d14e28b5d8",
+        "id": "9bca1e5a7a59c87f",
         "type": "tabs",
         "children": [
           {
-            "id": "dad41a5ce0c026ec",
+            "id": "c4630e0b0865848e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "M1 Maths.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "M1 Maths.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,12 +139,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad41a5ce0c026ec",
+  "active": "c4630e0b0865848e",
   "lastOpenFiles": [
-    "M1 Maths.md",
+    "M1 EVS.md",
+    "M1 BME.md",
+    "M1 MATH.md",
+    "Pasted image 20230916111210.png",
+    "Pasted image 20230916110038.png",
     "calculus_11_Sequences_and_Series.pdf",
     "2023-09-14.md",
-    "M1 MECH.md",
     "Pasted image 20230914232139.png",
     "Pasted image 20230914231426.png",
     "M1 BEC.md",
