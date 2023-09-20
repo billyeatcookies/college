@@ -1,3 +1,8 @@
+---
+tags:
+  - EVS
+---
+
 - Definition of environment?
 environment is a type of system which consist of biotic and abiotic components which are interdependent for their survival.
 
@@ -81,3 +86,13 @@ microbial process that converts nitrate to nitrogen gas, removing bio available 
 - aerobic vs anaerobic?
 aerobic is characterized by presence of free oxygen O2.
 
+### Nitrogen cycle
+
+![[Nitrogen Cycle.canvas|Nitrogen Cycle]]
+
+## Carbon Cycle
+
+![[Carbon Cycle.canvas]]
+## Sulphur Cycle
+
+![[Sulphur Cycle.canvas|Sulphur Cycle]]

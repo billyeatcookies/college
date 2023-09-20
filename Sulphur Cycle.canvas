@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"da2f0b1ab044e65f","x":-300,"y":-220,"width":94,"height":29,"color":"6","type":"text","text":"SO4"},
+		{"id":"ec29c9ea15701e18","x":-272,"y":-68,"width":211,"height":58,"color":"6","type":"text","text":"Sulphur in soil rocks as S and compounds"},
+		{"id":"b30e638801531bb5","x":-166,"y":-320,"width":94,"height":29,"color":"6","type":"text","text":"SO2"},
+		{"id":"8379b8de9c5ec051","x":-236,"y":100,"width":140,"height":29,"color":"1","type":"text","text":"Fossil fuels"},
+		{"id":"3281ff43090d6835","x":-440,"y":0,"width":168,"height":29,"color":"6","type":"text","text":"SO4 (2-) in sea"},
+		{"id":"0a30a4d25487be73","x":63,"y":71,"width":143,"height":29,"color":"2","type":"text","text":"Consumers"},
+		{"id":"492e24a63e3c6faf","x":-139,"y":0,"width":135,"height":29,"color":"4","type":"text","text":"Producers"},
+		{"id":"a8bb68dafc9e63ea","x":7,"y":-97,"width":161,"height":29,"color":"2","type":"text","text":"Decomposers"},
+		{"id":"06dd23080b4c081a","x":41,"y":-191,"width":94,"height":29,"color":"6","type":"text","text":"SO2"},
+		{"id":"61bc82757004761c","x":240,"y":-191,"width":93,"height":29,"color":"6","type":"text","text":"H2S"}
+	],
+	"edges":[
+		{"id":"297397fc60ca4f1d","fromNode":"b30e638801531bb5","fromSide":"left","toNode":"da2f0b1ab044e65f","toSide":"top","label":"acid\nrain"},
+		{"id":"3709cb0789eba2b7","fromNode":"06dd23080b4c081a","fromSide":"top","toNode":"b30e638801531bb5","toSide":"right"},
+		{"id":"f7968ddae8bf3c76","fromNode":"da2f0b1ab044e65f","fromSide":"bottom","toNode":"3281ff43090d6835","toSide":"top","label":"soil\nspray"},
+		{"id":"3378a4260c59be49","fromNode":"da2f0b1ab044e65f","fromSide":"bottom","toNode":"ec29c9ea15701e18","toSide":"top"},
+		{"id":"b99df0b23fb89e75","fromNode":"3281ff43090d6835","fromSide":"bottom","toNode":"8379b8de9c5ec051","toSide":"left"},
+		{"id":"7ff3133a85938849","fromNode":"ec29c9ea15701e18","fromSide":"bottom","toNode":"492e24a63e3c6faf","toSide":"left"},
+		{"id":"0ef1b3efec48e877","fromNode":"492e24a63e3c6faf","fromSide":"bottom","toNode":"8379b8de9c5ec051","toSide":"top"},
+		{"id":"e7ea66638d4d0101","fromNode":"8379b8de9c5ec051","fromSide":"right","toNode":"06dd23080b4c081a","toSide":"left","color":"#8b8989"},
+		{"id":"362c613402dd246a","fromNode":"492e24a63e3c6faf","fromSide":"right","toNode":"0a30a4d25487be73","toSide":"left"},
+		{"id":"77e3f4dd245a1c52","fromNode":"0a30a4d25487be73","fromSide":"bottom","toNode":"8379b8de9c5ec051","toSide":"top"},
+		{"id":"6a82811736a25ba1","fromNode":"492e24a63e3c6faf","fromSide":"right","toNode":"a8bb68dafc9e63ea","toSide":"bottom"},
+		{"id":"2efa2365b972a1d3","fromNode":"0a30a4d25487be73","fromSide":"top","toNode":"a8bb68dafc9e63ea","toSide":"bottom"},
+		{"id":"142d93c81e2b44e7","fromNode":"a8bb68dafc9e63ea","fromSide":"top","toNode":"06dd23080b4c081a","toSide":"bottom"},
+		{"id":"2d11e70ee08fb310","fromNode":"61bc82757004761c","fromSide":"left","toNode":"06dd23080b4c081a","toSide":"right","label":"oxdn"},
+		{"id":"faae2f5e2bfbb50e","fromNode":"a8bb68dafc9e63ea","fromSide":"right","toNode":"61bc82757004761c","toSide":"bottom","label":"Bacterial\nAnaerobic"}
+	]
+}

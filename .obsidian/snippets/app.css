@@ -1,0 +1,32 @@
+tag {
+  background-color: var(--text-accent);
+  border: none;
+  color: white;
+  font-size: 11px;
+  padding: 1px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 14px;
+}
+.tag:hover {
+color: white;
+background-color: var(--text-accent-hover);
+}
+.tag[href^="#math"] {
+  background-color: #e05252;
+}
+.tag[href^="#bme"] {
+  background-color: #e0b152;
+}
+.tag[href^="#bec"] {
+  background-color: #b1e052;
+}
+.tag[href^="#chem"] {
+  background-color: #52e052;
+}
+.tag[href^="#evs"] {
+  background-color: #52e0b1;
+}

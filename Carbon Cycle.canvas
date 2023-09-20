@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"fce088fa86c1b821","x":-380,"y":-280,"width":260,"height":80,"color":"#316caa","type":"text","text":"The CO2 Reservoir \nHydrosphere, Atmosphere"},
+		{"id":"5362c0077ab7b366","x":0,"y":-72,"width":160,"height":60,"color":"2","type":"text","text":"Consumers"},
+		{"id":"862e003cffe1caf8","x":-620,"y":-72,"width":140,"height":60,"color":"4","type":"text","text":"Producers"},
+		{"id":"ef820b7ad7233dd1","x":-327,"y":-72,"width":155,"height":60,"color":"5","type":"text","text":"lithosphere"},
+		{"id":"8f598dfe33134f3e","x":-327,"y":80,"width":172,"height":60,"color":"2","type":"text","text":"Decomposers"}
+	],
+	"edges":[
+		{"id":"bb728c7d9a73f5ff","fromNode":"fce088fa86c1b821","fromSide":"left","toNode":"862e003cffe1caf8","toSide":"top","color":"3","label":"photosynthesis\ncombustion\nrespiration"},
+		{"id":"95014374eb6bab10","fromNode":"5362c0077ab7b366","fromSide":"top","toNode":"fce088fa86c1b821","toSide":"right","color":"2","label":"combustion\nrespiration\ndecomposition"},
+		{"id":"1adc8031900e6f2d","fromNode":"862e003cffe1caf8","fromSide":"right","toNode":"ef820b7ad7233dd1","toSide":"left"},
+		{"id":"269db954f3980ecd","fromNode":"5362c0077ab7b366","fromSide":"left","toNode":"ef820b7ad7233dd1","toSide":"right"},
+		{"id":"af7cce7ba7c4b222","fromNode":"ef820b7ad7233dd1","fromSide":"top","toNode":"fce088fa86c1b821","toSide":"bottom"},
+		{"id":"4978f2509733142b","fromNode":"fce088fa86c1b821","fromSide":"bottom","toNode":"ef820b7ad7233dd1","toSide":"top"},
+		{"id":"42ee66aad6c6b7e5","fromNode":"862e003cffe1caf8","fromSide":"bottom","toNode":"8f598dfe33134f3e","toSide":"left","label":"death"},
+		{"id":"1d4b235daebd4207","fromNode":"8f598dfe33134f3e","fromSide":"right","toNode":"5362c0077ab7b366","toSide":"bottom","label":"death"}
+	]
+}

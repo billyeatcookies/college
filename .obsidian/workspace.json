@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9bca1e5a7a59c87f",
+        "id": "cacc117dab7c360e",
         "type": "tabs",
         "children": [
           {
-            "id": "c4630e0b0865848e",
+            "id": "9c4ba364ea43a899",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,25 +139,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4630e0b0865848e",
+  "active": "9c4ba364ea43a899",
   "lastOpenFiles": [
-    "M1 EVS.md",
-    "M1 BME.md",
+    "M1 BEC.md",
+    "Pasted image 20230921000741.png",
+    "Pasted image 20230920221001.png",
+    "calculus_11_Sequences_and_Series.pdf",
     "M1 MATH.md",
+    "M1 CHEM.md",
+    "M1 BME.md",
+    "M2 CHEM.md",
+    "MATHS.md",
+    "BEC.md",
+    "BME.md",
+    "EVS.md",
+    "CHEMISTRY.md",
+    "M1 EVS.md",
+    "M1.md",
+    "CHEM.canvas",
+    "Sulphur Cycle.canvas",
+    "Sulphur Cycle.md",
+    "Carbon Cycle.canvas",
+    "Nitrogen Cycle.canvas",
+    "Pasted image 20230916131140.png",
+    "Pasted image 20230916131116.png",
+    "Pasted image 20230916131021.png",
+    "Pasted image 20230916130941.png",
     "Pasted image 20230916111210.png",
     "Pasted image 20230916110038.png",
-    "calculus_11_Sequences_and_Series.pdf",
     "2023-09-14.md",
     "Pasted image 20230914232139.png",
     "Pasted image 20230914231426.png",
-    "M1 BEC.md",
-    "Pasted image 20230914222506.png",
-    "Untitled.canvas",
-    "Pasted image 20230914220608.png",
-    "Notice.md",
-    "Pasted image 20230914212354.png",
-    "Pasted image 20230914203845.png",
-    "Pasted image 20230914203617.png",
-    "Pasted image 20230912203100.png"
+    "Notice.md"
   ]
 }

@@ -1,3 +1,8 @@
+---
+tags:
+  - BEC
+---
+
 - What is a PN jn?
 The P-N jn is created by the method of doping. The **p-side** has excess **holes** and it will be a **trivalent** doped (BAlGaInTl) sc, is also the **positive** side of diode. 
 
@@ -127,5 +132,57 @@ $$V_{rms} = \frac {V_m} {\sqrt{2}}, V_{dc} = \frac {2V_m} \pi$$
 combination of capacitors to eliminate ripples. as the charging time of capacitors <<< discharging time, before the discharge completes, next cycle begins.
 
 ![[Pasted image 20230914222506.png]]
+
+## Zener Diode
+
+- what's the difference bw a normal PN jn diode and a zener diode?
+a zener is a special type of PN jn diode that is heavily doped. it can conduct in both reverse and forward  directions. to conduct in reverse direction the voltage shall be higher than the zener breakdown voltage.
+
+![[Pasted image 20230920221001.png]]
+
+- why depletion region width of zener diode is smaller than a normal PN jn?
+because it is heavily doped, so concentration of charge carriers is high, and hence a small width of depletion region will give a barrier voltage required. 
+
+- what's avalanche breakdown?
+occurs in both kinda diodes. at high voltages. valence electrons pushed into conduction due to energy imparted by accelerated electrons, which gain velocity due to collision with other atoms.
+
+- temperature and avalanche breakdown voltage dependency?
+temperature increases -> avalanche breakdown voltage increases
+
+- what's zener breakdown?
+5-7 v, valence electrons are pulled into conduction due to high electric field across the narrow depletion region.
+
+- temperature and zener breakdown voltage dependency?
+temperature increases -> zener breakdown voltage decreases
+## Applications of Zener Diode
+
+### Voltage Regulation
+
+- line voltage regulation
+- load voltage regulation
+
+Makes use of the zener breakdown in reverse bias.
+
+![[Pasted image 20230921000741.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
