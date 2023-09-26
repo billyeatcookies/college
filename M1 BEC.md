@@ -25,7 +25,7 @@ built in electric fields and the applied electric fields are in opposite directi
 
 - so then reverse bias?
 the complete opposite. the direction of electric fields will be same and the resistance of depletion region will be larger and it will become thicker. more applied voltage means more resistance and thicker depl region.
-(case: the more the students become less responsive, the lesser grades they will get)
+(case: the more you ask the less you get)
 
 |E|V|Id(mA)|
 |--|--|--|
@@ -34,7 +34,8 @@ the complete opposite. the direction of electric fields will be same and the res
 |3|3|0|
 |...|...|...|
 |50|50|0.1|
-|51|52|0.2|
+|51|50|0.2|
+|52|50|0.3|
 
 ![[Pasted image 20230912203100.png]]
 

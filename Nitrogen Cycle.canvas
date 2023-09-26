@@ -4,9 +4,10 @@
 		{"id":"f654eba42001e1fa","type":"text","text":"Nitrate NO3-","x":-182,"y":-200,"width":142,"height":60,"color":"6"},
 		{"id":"faa15a879173bc9d","type":"text","text":"Atmosphere \nNitrogen Reservoir","x":-213,"y":-360,"width":205,"height":60,"color":"#176c97"},
 		{"id":"e3f8c38e4f437c5d","type":"text","text":"producer","x":-250,"y":-30,"width":137,"height":60,"color":"4"},
-		{"id":"775c515eb480c4c9","type":"text","text":"Consumer","x":-80,"y":-30,"width":148,"height":60,"color":"2"},
 		{"id":"39471287a8011678","type":"text","text":"Decomposer","x":-107,"y":80,"width":163,"height":60,"color":"2"},
-		{"id":"330cffb9232f99ca","type":"text","text":"Aminoacid, urea, etc.","x":160,"y":-30,"width":161,"height":60,"color":"6"}
+		{"id":"330cffb9232f99ca","type":"text","text":"Aminoacid, urea, etc.","x":160,"y":-30,"width":161,"height":60,"color":"6"},
+		{"id":"918e2d044bedbbf8","type":"file","file":"Pasted image 20230924155619.png","x":160,"y":-380,"width":400,"height":296},
+		{"id":"775c515eb480c4c9","type":"text","text":"Consumer","x":-82,"y":-30,"width":148,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"67a38f0480219045","fromNode":"f654eba42001e1fa","fromSide":"top","toNode":"faa15a879173bc9d","toSide":"bottom"},
@@ -19,7 +20,7 @@
 		{"id":"8f376a7c649ffa6a","fromNode":"e3f8c38e4f437c5d","fromSide":"bottom","toNode":"39471287a8011678","toSide":"left"},
 		{"id":"d568a99af3ea0373","fromNode":"39471287a8011678","fromSide":"right","toNode":"330cffb9232f99ca","toSide":"bottom"},
 		{"id":"8ec79cc7b10e4aac","fromNode":"f654eba42001e1fa","fromSide":"left","toNode":"ffdeb8df9acd6479","toSide":"left","label":"bacteria"},
-		{"id":"b3f4702851aa63ce","fromNode":"ffdeb8df9acd6479","fromSide":"right","toNode":"330cffb9232f99ca","toSide":"bottom","label":"Ammonifying\nBacteria"},
-		{"id":"e95da54703311904","fromNode":"ffdeb8df9acd6479","fromSide":"right","toNode":"f654eba42001e1fa","toSide":"right"}
+		{"id":"e95da54703311904","fromNode":"ffdeb8df9acd6479","fromSide":"right","toNode":"f654eba42001e1fa","toSide":"right"},
+		{"id":"47603f80f7402bb7","fromNode":"330cffb9232f99ca","fromSide":"right","toNode":"ffdeb8df9acd6479","toSide":"bottom","label":"Ammonifying\nBacteria"}
 	]
 }

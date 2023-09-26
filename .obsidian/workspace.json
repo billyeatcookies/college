@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cacc117dab7c360e",
+        "id": "73b48088a1cdc3ac",
         "type": "tabs",
         "children": [
           {
-            "id": "9c4ba364ea43a899",
+            "id": "3783b63420e23655",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "M1 EVS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#EVS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "M1 EVS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "M1 EVS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "M1 EVS.md"
+              }
             }
           }
         ]
@@ -136,11 +145,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c4ba364ea43a899",
+  "active": "3783b63420e23655",
   "lastOpenFiles": [
+    "Nitrogen Cycle.canvas",
+    "M1 EVS.md",
+    "M1 BEC.md",
+    "Excalidraw/Drawing 2023-09-25 11.48.34.excalidraw.md",
+    "Sulphur Cycle.canvas",
+    "Carbon Cycle.canvas",
+    "24-9-23.kdbx",
+    "7-8-2023.kdbx",
+    "Pasted image 20230924155619.png",
+    "M2 CHEM.md",
+    "Excalidraw/fischer projection.md",
+    "M1 CHEM.md",
+    "Pasted image 20230921164646.png",
+    "Pasted image 20230921164336.png",
+    "Pasted image 20230921164245.png",
+    "Excalidraw",
     "Pasted image 20230921000741.png.~tmp",
     "Pasted image 20230916111210.png.~tmp",
     "Pasted image 20230916110038.png.~tmp",
@@ -148,35 +174,23 @@
     "Pasted image 20230914212354.png.~tmp",
     "Pasted image 20230914203845.png.~tmp",
     "Pasted image 20230914203617.png.~tmp",
-    "M1 BEC.md",
     "Pasted image 20230921000741.png",
     "Pasted image 20230920221001.png",
-    "calculus_11_Sequences_and_Series.pdf",
     "M1 MATH.md",
-    "M1 CHEM.md",
     "M1 BME.md",
-    "M2 CHEM.md",
     "MATHS.md",
     "BEC.md",
     "BME.md",
     "EVS.md",
     "CHEMISTRY.md",
-    "M1 EVS.md",
     "M1.md",
     "CHEM.canvas",
-    "Sulphur Cycle.canvas",
     "Sulphur Cycle.md",
-    "Carbon Cycle.canvas",
-    "Nitrogen Cycle.canvas",
     "Pasted image 20230916131140.png",
     "Pasted image 20230916131116.png",
     "Pasted image 20230916131021.png",
     "Pasted image 20230916130941.png",
-    "Pasted image 20230916111210.png",
-    "Pasted image 20230916110038.png",
     "2023-09-14.md",
-    "Pasted image 20230914232139.png",
-    "Pasted image 20230914231426.png",
     "Notice.md"
   ]
 }

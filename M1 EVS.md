@@ -49,9 +49,9 @@ all **autotrophs** such as plants. they produce food by photosynthesis.
 **heterotrophs** that feed on other organisms
 
 **primary** -> herbivorous, organisms which consumes the producers (eg. goat, cow, rabbit)
-**secondary** -> animals which feed on the primary consumers (eg. cat, fox)
+**secondary** -> carnivorous, animals which feed on the primary consumers (eg. cat, fox)
 **tertiary** -> large carnivorous which feed on tertiary (eg. snake)
-**quaternary** -> prey on tertiary, they have no predators
+**quaternary** -> prey on tertiary, they have no predators (eg. lion, tiger)
 
 - what are decomposers?
 **saprophytes** such as fungi and bacteria. thrive on dead and decaying organic matter. 
@@ -96,3 +96,8 @@ aerobic is characterized by presence of free oxygen O2.
 ## Sulphur Cycle
 
 ![[Sulphur Cycle.canvas|Sulphur Cycle]]
+
+## Phosphorous Cycle
+
+![[Phosphorus Cycle.canvas|Phosphorus Cycle]]
+

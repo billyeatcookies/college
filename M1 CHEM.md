@@ -28,3 +28,27 @@ tags:
 - Rest of properties low
 - no cyclic compound formation
 
+## Optical Isomers
+
+- what are optical isomers?
+They can rotate plan-polarized light. two types - D and L (left)
+if contains chiral carbon -> optically active
+
+- what is a racemic mixture?
+mixture of both L and D forms 
+- what is a resolution mixture?
+separation of L and D forms
+- what is walden conversion?
+L form -> D form or vice versa.
+
+- what is fischer projection?
+![[Pasted image 20230921164245.png]]
+
+- what are E and Z isomers?
+
+Z will have high priority substituents on same side of double bond
+E will have them on opposite sides of double bond
+![[Pasted image 20230921164646.png]]
+
+
+

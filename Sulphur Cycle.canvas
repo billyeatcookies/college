@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"da2f0b1ab044e65f","x":-300,"y":-220,"width":94,"height":29,"color":"6","type":"text","text":"SO4"},
-		{"id":"ec29c9ea15701e18","x":-272,"y":-68,"width":211,"height":58,"color":"6","type":"text","text":"Sulphur in soil rocks as S and compounds"},
-		{"id":"b30e638801531bb5","x":-166,"y":-320,"width":94,"height":29,"color":"6","type":"text","text":"SO2"},
-		{"id":"8379b8de9c5ec051","x":-236,"y":100,"width":140,"height":29,"color":"1","type":"text","text":"Fossil fuels"},
-		{"id":"3281ff43090d6835","x":-440,"y":0,"width":168,"height":29,"color":"6","type":"text","text":"SO4 (2-) in sea"},
-		{"id":"0a30a4d25487be73","x":63,"y":71,"width":143,"height":29,"color":"2","type":"text","text":"Consumers"},
-		{"id":"492e24a63e3c6faf","x":-139,"y":0,"width":135,"height":29,"color":"4","type":"text","text":"Producers"},
-		{"id":"a8bb68dafc9e63ea","x":7,"y":-97,"width":161,"height":29,"color":"2","type":"text","text":"Decomposers"},
-		{"id":"06dd23080b4c081a","x":41,"y":-191,"width":94,"height":29,"color":"6","type":"text","text":"SO2"},
-		{"id":"61bc82757004761c","x":240,"y":-191,"width":93,"height":29,"color":"6","type":"text","text":"H2S"}
+		{"id":"ec29c9ea15701e18","type":"text","text":"Sulphur in soil rocks as S and compounds","x":-272,"y":-68,"width":211,"height":58,"color":"6"},
+		{"id":"b30e638801531bb5","type":"text","text":"SO2","x":-166,"y":-320,"width":94,"height":29,"color":"6"},
+		{"id":"8379b8de9c5ec051","type":"text","text":"Fossil fuels","x":-236,"y":100,"width":140,"height":29,"color":"1"},
+		{"id":"3281ff43090d6835","type":"text","text":"SO4 (2-) in sea","x":-440,"y":0,"width":168,"height":29,"color":"6"},
+		{"id":"0a30a4d25487be73","type":"text","text":"Consumers","x":63,"y":71,"width":143,"height":29,"color":"2"},
+		{"id":"492e24a63e3c6faf","type":"text","text":"Producers","x":-139,"y":0,"width":135,"height":29,"color":"4"},
+		{"id":"a8bb68dafc9e63ea","type":"text","text":"Decomposers","x":7,"y":-97,"width":161,"height":29,"color":"2"},
+		{"id":"06dd23080b4c081a","type":"text","text":"SO2","x":41,"y":-191,"width":94,"height":29,"color":"6"},
+		{"id":"61bc82757004761c","type":"text","text":"H2S","x":240,"y":-191,"width":93,"height":29,"color":"6"},
+		{"id":"da2f0b1ab044e65f","type":"text","text":"SO4","x":-330,"y":-205,"width":94,"height":29,"color":"6"}
 	],
 	"edges":[
 		{"id":"297397fc60ca4f1d","fromNode":"b30e638801531bb5","fromSide":"left","toNode":"da2f0b1ab044e65f","toSide":"top","label":"acid\nrain"},
