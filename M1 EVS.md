@@ -21,10 +21,17 @@ molecular, organisms, communities, population and ecosystem.
 - autoecology vs syncology?
 autoecology is study of individual organisms. syncology is the study of whole organism communities or a group of organisms.
 
+- synecology divided into three, define those.
+**population ecology:** relates organism with various groups of organisms
+**gene ecology**: deals with genetic make up of species in relation with environment.
+**taxonomic ecology**: includes taxonomic groups such as microbial, insect, etc.
+
 - definition of ecosystem?
 functional unit of nature which contains the biotic community and abiotic environment.
 
 - types of ecosystem?
+natural and artificial.
+
 terrestrial and aquatic. **terrestrial** are land based ecosystems that include forest, grassland, tundra, desert.
 **aquatic are water body based** that include freshwater and marine.
 

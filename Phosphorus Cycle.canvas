@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"9ba75eecbd6e3884","x":-40,"y":-91,"width":200,"height":71,"color":"4","type":"text","text":"Rocks containing phosphates "},
-		{"id":"f3974e67e292c876","x":-200,"y":260,"width":153,"height":50,"color":"4","type":"text","text":"Producers"},
-		{"id":"8dd46bcf80656e05","x":20,"y":260,"width":140,"height":50,"color":"2","type":"text","text":"Consumers"},
-		{"id":"d77614e1f31f04e1","x":-43,"y":60,"width":207,"height":60,"color":"6","type":"text","text":"Phosphates in soil"},
-		{"id":"d8dc3da5627f3a2e","x":220,"y":260,"width":160,"height":50,"color":"2","type":"text","text":"Decomposers"},
-		{"id":"df8c3b7682414776","x":370,"y":64,"width":190,"height":50,"color":"5","type":"text","text":"Run off to rivers"}
+		{"id":"f3974e67e292c876","type":"text","text":"Producers","x":-200,"y":260,"width":153,"height":50,"color":"4"},
+		{"id":"8dd46bcf80656e05","type":"text","text":"Consumers","x":20,"y":260,"width":144,"height":50,"color":"2"},
+		{"id":"d77614e1f31f04e1","type":"text","text":"Phosphates in soil","x":-43,"y":60,"width":207,"height":60,"color":"6"},
+		{"id":"d8dc3da5627f3a2e","type":"text","text":"Decomposers","x":220,"y":260,"width":180,"height":50,"color":"2"},
+		{"id":"df8c3b7682414776","type":"text","text":"Run off to rivers","x":370,"y":64,"width":190,"height":50,"color":"5"},
+		{"id":"9ba75eecbd6e3884","type":"text","text":"Rocks containing phosphates ","x":-40,"y":-140,"width":200,"height":71,"color":"4"}
 	],
 	"edges":[
 		{"id":"ab48d028e8ea3f39","fromNode":"d77614e1f31f04e1","fromSide":"left","toNode":"f3974e67e292c876","toSide":"top"},
 		{"id":"4b1c994f4df08477","fromNode":"f3974e67e292c876","fromSide":"right","toNode":"8dd46bcf80656e05","toSide":"left"},
-		{"id":"b07f57720a389238","fromNode":"9ba75eecbd6e3884","fromSide":"bottom","toNode":"d77614e1f31f04e1","toSide":"top"},
+		{"id":"b07f57720a389238","fromNode":"9ba75eecbd6e3884","fromSide":"bottom","toNode":"d77614e1f31f04e1","toSide":"top","label":"erosion"},
 		{"id":"df9971ae6d50f0f5","fromNode":"8dd46bcf80656e05","fromSide":"right","toNode":"d8dc3da5627f3a2e","toSide":"left"},
 		{"id":"514932b19ded009f","fromNode":"d8dc3da5627f3a2e","fromSide":"top","toNode":"d77614e1f31f04e1","toSide":"right"},
 		{"id":"526e091f79accb16","fromNode":"d77614e1f31f04e1","fromSide":"right","toNode":"df8c3b7682414776","toSide":"left"}
