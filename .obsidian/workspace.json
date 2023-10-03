@@ -11,8 +11,12 @@
             "id": "a819eee475da9f22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "M1 MATH.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "M1 MATH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "M1 MATH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "M1 MATH.md"
+              }
             }
           }
         ]
@@ -143,9 +151,19 @@
   },
   "active": "a819eee475da9f22",
   "lastOpenFiles": [
+    "Pasted image 20231003052058.png",
+    "Pasted image 20231003050041.png",
+    "Pasted image 20231003050008.png",
+    "Pasted image 20231003045604.png",
+    "Pasted image 20231003041554.png",
+    "Pasted image 20231003040127.png",
+    "Pasted image 20231003024413.png",
+    "Pasted image 20231003024358.png",
+    "Pasted image 20231003024332.png",
+    "Pasted image 20231003024331.png",
+    "Pasted image 20231003014400.png",
+    "M1 MATH.md",
     "M2 EVS.md",
-    "Pasted image 20230927010700.png",
-    "Pasted image 20230927002822.png",
     "Sulphur Cycle.canvas",
     "Phosphorus Cycle.canvas",
     "M1 EVS.md",
@@ -156,13 +174,9 @@
     "Carbon Cycle.canvas",
     "24-9-23.kdbx",
     "7-8-2023.kdbx",
-    "Pasted image 20230924155619.png",
     "M2 CHEM.md",
     "Excalidraw/fischer projection.md",
     "M1 CHEM.md",
-    "Pasted image 20230921164646.png",
-    "Pasted image 20230921164336.png",
-    "Pasted image 20230921164245.png",
     "Excalidraw",
     "Pasted image 20230921000741.png.~tmp",
     "Pasted image 20230916111210.png.~tmp",
@@ -171,9 +185,6 @@
     "Pasted image 20230914212354.png.~tmp",
     "Pasted image 20230914203845.png.~tmp",
     "Pasted image 20230914203617.png.~tmp",
-    "Pasted image 20230921000741.png",
-    "Pasted image 20230920221001.png",
-    "M1 MATH.md",
     "M1 BME.md",
     "MATHS.md",
     "BEC.md",
@@ -183,8 +194,6 @@
     "M1.md",
     "CHEM.canvas",
     "Sulphur Cycle.md",
-    "Pasted image 20230916131140.png",
-    "Pasted image 20230916131116.png",
     "2023-09-14.md",
     "Notice.md"
   ]
