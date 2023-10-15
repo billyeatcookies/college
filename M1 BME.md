@@ -23,3 +23,31 @@ skip the forces that pass through considered joint.
 ## Frames
 
 it will have more than two rigid points, can be of any shape.
+
+## Hooke's Law
+
+![[Pasted image 20231016030725.png]]
+
+$\sigma = E \epsilon$
+$\Delta L = \epsilon L = \frac {FL}{AE}$
+
+**ε** strain
+**σ** stress 
+
+![[Pasted image 20231016032236.png]]
+
+![[Pasted image 20231016030944.png]]
+
+spring oscillator
+![[Pasted image 20231016031236.png]]
+![[Pasted image 20231016031254.png]]
+
+### Shear modulus
+
+![[Pasted image 20231016031605.png]]
+![[Pasted image 20231016031632.png]]
+
+$\nu$ is poisson's ratio
+![[Pasted image 20231016031931.png]]
+
+![[Lecture_09_Filled.pdf]]

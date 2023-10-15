@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "889c2545a8d32c7c",
+        "id": "e90d33e3fad1c48e",
         "type": "tabs",
         "children": [
           {
-            "id": "a819eee475da9f22",
+            "id": "f0c5eec96770fa95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 MATH.md",
+                "file": "M1 BME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "806a4ff34597726c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M2 BME.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 MATH.md",
+                "file": "M1 BME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 MATH.md",
+                "file": "M1 BME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 MATH.md"
+                "file": "M1 BME.md"
               }
             }
           }
@@ -149,19 +161,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a819eee475da9f22",
+  "active": "f0c5eec96770fa95",
   "lastOpenFiles": [
-    "Pasted image 20231003052058.png",
-    "Pasted image 20231003050041.png",
-    "Pasted image 20231003050008.png",
-    "Pasted image 20231003045604.png",
-    "Pasted image 20231003041554.png",
-    "Pasted image 20231003040127.png",
-    "Pasted image 20231003024413.png",
-    "Pasted image 20231003024358.png",
-    "Pasted image 20231003024332.png",
-    "Pasted image 20231003024331.png",
-    "Pasted image 20231003014400.png",
+    "M2 BME.md",
+    "Lecture_09_Filled.pdf",
+    "Pasted image 20231016042034.png",
+    "M1 BME.md",
+    "Pasted image 20231016032236.png",
+    "Pasted image 20231016031931.png",
+    "Pasted image 20231016031632.png",
+    "Pasted image 20231016031605.png",
+    "Pasted image 20231016031254.png",
+    "Pasted image 20231016031236.png",
+    "Pasted image 20231016030944.png",
+    "Pasted image 20231016030933.png",
+    "Pasted image 20231016030725.png",
     "M1 MATH.md",
     "M2 EVS.md",
     "Sulphur Cycle.canvas",
@@ -184,8 +198,6 @@
     "Pasted image 20230914220608.png.~tmp",
     "Pasted image 20230914212354.png.~tmp",
     "Pasted image 20230914203845.png.~tmp",
-    "Pasted image 20230914203617.png.~tmp",
-    "M1 BME.md",
     "MATHS.md",
     "BEC.md",
     "BME.md",
